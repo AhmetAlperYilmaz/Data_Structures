@@ -1,10 +1,8 @@
 /* @Author
 
-Student Name: <Ahmet Alper Yılmaz>
+Ahmet Alper Yılmaz
 
-Student ID: <150180037>
-
-Date: <18-12-2019> */
+Date: 18-12-2019 */
 
 #include <iostream>	
 #include <cstring>
