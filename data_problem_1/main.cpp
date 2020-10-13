@@ -1,8 +1,6 @@
 /* @Author
 
-Student Name: <Ahmet Alper Yılmaz>
-
-Student ID: <150180037>
+Ahmet Alper Yılmaz
 
 Date: <19-10-2019> */
 
