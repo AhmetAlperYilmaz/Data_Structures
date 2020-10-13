@@ -4,9 +4,8 @@ YOU HAVE TO WRITE THE REQUIRED  FUNCTIONS THAT IS MENTIONED ABOVE. YOU CAN ADD N
 */
 
 /* @Author
-Student Name: Ahmet Alper Yılmaz
-Student ID : 150180037
-Date: <9.11.2019> */
+Ahmet Alper Yılmaz
+Date: 9.11.2019 */
 
 #include <iostream>
 #include <stdlib.h>
