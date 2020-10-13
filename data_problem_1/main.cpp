@@ -2,7 +2,7 @@
 
 Ahmet Alper Yılmaz
 
-Date: <19-10-2019> */
+Date: 19-10-2019 */
 
 #include <iostream>
 #include <fstream>
